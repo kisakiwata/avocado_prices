@@ -4,4 +4,6 @@
 
 ### Purpose of machine-learning model building: Based on the data, train and build the models to predict the prices.
 
+### Data resources: https://www.kaggle.com/neuromusic/avocado-prices
+
 ### Please see the attached jupyter notebook for findings and results.
